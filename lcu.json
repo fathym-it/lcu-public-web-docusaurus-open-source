@@ -2,11 +2,20 @@
   "Package": {
     "Name": "Docusaurus - Documentation - Open Source",
     "Description": "A customizable starter for writing docs and blogs with Markdown/MDX.",
-    "Button": "Launch",
-    "Image": "https://www.fathym.com/assets/images/logo.png",
-    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
-    "SuccessType": "Project"
+    "Image": "https://www.fathym.com/img/docusaurus.png",
+    "PreviewImage": "https://docusaurus.io/img/docusaurus.svg"
   },
-  "EaC": "./assets/eac.json",
-  "Parameters": "./assets/parameters.json"
+  "Configurations": {
+    "Full": {
+      "Name": "Docusaurus - Documentation - Open Source",
+      "Description": "Docusaurus - Documentation - Open Source",
+      "Phases": [
+        {
+          "Name": "Setup Docusaurus",
+          "Order": 1,
+          "Asset": "docusaurus"
+        }
+      ]
+    }
+  }
 }
