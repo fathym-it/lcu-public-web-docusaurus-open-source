@@ -1,23 +1,24 @@
 {
   "Package": {
-    "Name": "Docusaurus - Documentation - Open Source",
-    "Description": "A customizable starter for writing docs and blogs with Markdown/MDX.",
+    "Name": "Docusaurus Starter - NPM Launch",
+    "Description": "AA Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
     "Image": "https://www.fathym.com/img/docusaurus.png",
     "PreviewImage": "https://docusaurus.io/img/docusaurus.svg",
     "Intents":[
       "Docusaurus",
       "Getting started",
       "Website",
-      "Application"
+      "Application",
+      "NPM"
     ]
   },
   "Configurations": {
     "Full": {
-      "Name": "Docusaurus - Documentation - Open Source",
-      "Description": "Docusaurus - Documentation - Open Source",
+      "Name": "Docusaurus Starter - NPM Launch",
+      "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
       "Phases": [
         {
-          "Name": "Setup Docusaurus",
+          "Name": "Setting Up Docusaurus Starter - NPM Launch",
           "Order": 1,
           "Asset": "docusaurus"
         }
