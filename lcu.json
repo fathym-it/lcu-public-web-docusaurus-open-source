@@ -1,7 +1,7 @@
 {
   "Package": {
-    "Name": "Docusaurus - Documentation - Open Source",
-    "Description": "A customizable starter for writing docs and blogs with Markdown/MDX.",
+    "Name": "Docusaurus Startet - NPM Launch",
+    "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
     "Button": "Launch",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",

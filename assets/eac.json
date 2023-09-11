@@ -2,8 +2,8 @@
   "Applications": {
     "$1": {
       "Application": {
-        "Description": "A basic starting point for sites and documentation built with Docusaurus.",
-        "Name": "Docusaurus - Documentation - Open Source"
+        "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
+        "Name": "Docusaurus Starter - NPM Launch"
       },
       "LookupConfig": {
         "PathRegex": "/.*"
