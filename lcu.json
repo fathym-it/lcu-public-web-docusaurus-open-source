@@ -1,5 +1,6 @@
 {
   "Package": {
+<<<<<<< HEAD
     "Name": "Docusaurus Starter - NPM Launch",
     "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
     "Image": "https://www.fathym.com/img/docusaurus.png",
@@ -11,6 +12,14 @@
       "Application",
       "NPM"
     ]
+=======
+    "Name": "Docusaurus Startet - NPM Launch",
+    "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
+    "Button": "Launch",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "SuccessType": "Project"
+>>>>>>> origin/integration
   },
   "Configurations": {
     "Full": {
