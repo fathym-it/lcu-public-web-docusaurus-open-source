@@ -1,7 +1,7 @@
 {
   "Package": {
     "Name": "Docusaurus Starter - NPM Launch",
-    "Description": "AA Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
+    "Description": "A Docusaurus starter app for docs and blogs written with Markdown/MDX, deployed to Fathym via an NPM package.",
     "Image": "https://www.fathym.com/img/docusaurus.png",
     "PreviewImage": "https://docusaurus.io/img/docusaurus.svg",
     "Intents":[
